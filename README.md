@@ -6,7 +6,7 @@ A handy Telegram bot that tells you the weather and lets you download YouTube vi
 - `/youtube <link>` → Download the audio from a YouTube video as an MP3.
 
 ## Requirements
-- Python 3.12.4 (you can try older versions; it should work fine)
+- Python 3.12.4 (you can try older versions, it should work fine)
 - You need to install the `requests` dependency
 - You need to download [FFmpeg] (required by yt-dlp for audio conversion)  
   - Go to https://www.gyan.dev/ffmpeg/builds/  
